@@ -1,4 +1,4 @@
-public class exemple {
+public class Main {
     public static void main(String[] args)
     {
         system.out.print("Mon premier piepline java")
